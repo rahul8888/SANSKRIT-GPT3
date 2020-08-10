@@ -13,3 +13,6 @@ Methodology for BASIC:
     2.Convert the text string to sentences.
     3.process GPT3 using english sentences(such as summarizing a given paragraph)
     4.convert the resulting english sentences to sanskrit
+
+contact me on 
+https://www.linkedin.com/in/dr-rahul-kumar-1a51622b/
